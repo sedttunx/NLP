@@ -18,5 +18,3 @@ ModuleNotFoundError: No module named 'transformers'
 bu şekilde bir hata alırsanız dosyanın olduğu konumda 'pip install  transformers nltk bs4' kodu çalıştırınız, hatayı çözüp tekrar projeyi çalıştırarak projeyi açabilirsiniz.
 
 
-melike yağcı
-0554 593 7238
